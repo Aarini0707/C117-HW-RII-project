@@ -1,0 +1,19 @@
+.heading{
+    color: rgb(80, 7, 80);
+    font-size: 23px;
+    width: 80%;
+    box-shadow: 5px 5px 5px rgb(95, 158, 216);
+}
+
+.heading_div{
+    float:none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(250, 46, 114);
+    box-shadow: 5px 5px 5px rgb(165, 162, 162);
+}
+
+.heading_div2{
+    font-size: 18px;
+}
